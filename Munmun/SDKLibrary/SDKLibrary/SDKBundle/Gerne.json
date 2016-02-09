@@ -1,0 +1,94 @@
+{
+  "listCategory": [
+    {
+      "name": {
+        "jp": "車・交通",
+        "en": "Vehicle/Transportation",
+        "ko": "자동차 · 교통",
+        "zh-cn": "汽车·交通",
+        "zh-tw": "汽車·交通"
+      },
+      "genrecode": "00110"
+    },
+    {
+      "name": {
+        "jp": "レジャー",
+        "en": "Leisure facility",
+        "ko": "레저",
+        "zh-cn": "休闲",
+        "zh-tw": "休閒"
+      },
+      "genrecode": "00120"
+    },
+    {
+      "name": {
+        "jp": "宿泊",
+        "en": "Accommodation",
+        "ko": "숙박",
+        "zh-cn": "住宿",
+        "zh-tw": "住宿"
+      },
+      "genrecode": "00130"
+    },
+    {
+      "name": {
+        "jp": "買い物",
+        "en": "Shopping",
+        "ko": "쇼핑",
+        "zh-cn": "购物",
+        "zh-tw": "購物"
+      },
+      "genrecode": "00140"
+    },
+    {
+      "name": {
+        "jp": "病院・役所",
+        "en": "Hospital/Government office",
+        "ko": "병원 · 관공서",
+        "zh-cn": "医院·政府机构",
+        "zh-tw": "醫院·政府機構"
+      },
+      "genrecode": "00160"
+    },
+    {
+      "name": {
+        "jp": "金融機関",
+        "en": "Financial institution",
+        "ko": "금융기관",
+        "zh-cn": "金融机构",
+        "zh-tw": "金融機構"
+      },
+      "genrecode": "00170"
+    },
+    {
+      "name": {
+        "jp": "文化施設",
+        "en": "Cultural facility",
+        "ko": "문화시설",
+        "zh-cn": "文化设施",
+        "zh-tw": "文化設施"
+      },
+      "genrecode": "00220"
+    },
+    {
+      "name": {
+        "jp": "グルメ",
+        "en": "Gourmet",
+        "ko": "음식",
+        "zh-cn": "美食",
+        "zh-tw": "美食"
+      },
+      "genrecode": "00240"
+    },
+    {
+      "name": {
+        "jp": "学校",
+        "en": "Educational institution",
+        "ko": "학교",
+        "zh-cn": "学校",
+        "zh-tw": "學校"
+      },
+      "genrecode": "00250"
+    }
+  ]
+}
